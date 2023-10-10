@@ -2,14 +2,12 @@
 	"node": "n8n-nodes-base.TelegramCount",
 	"nodeVersion": "1.0",
 	"codexVersion": "1.0",
-	"categories": [
-		"Miscellaneous"
-	],
-	"resources": {
-		"credentialDocumentation": [
-			{
-				"url": ""
-			}
+	"categories": ["Communication"],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://docs.n8n.io/credentials/telegram"
+            }
 		],
 		"primaryDocumentation": [
 			{
